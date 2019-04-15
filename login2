@@ -1,0 +1,7 @@
+<?php ?>
+<html>
+<body>
+<h1>You are already logged in</h1>
+<a href="login1.php">logout</a>
+</body>
+</html>
